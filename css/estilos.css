@@ -1,0 +1,93 @@
+
+#caja1{
+    height: 100px;
+}
+#marca{
+    background-color: rgb(6, 163, 37);
+    height: 100px;
+}
+#botones{
+    background-color: rgb(183, 0, 255);
+    height: 100px;
+}
+#body{
+    padding: 10px;
+}
+#body2{
+    padding-top: 10px;
+}
+#fichin{
+    background-color: rgb(0, 101, 67);
+    height: 300px;
+}
+#foto1{
+    background-color: brown;
+    height: 300px;
+}
+#foto2{
+    background-color: rgb(42, 165, 159);
+    height: 300px;
+}
+#foto3{
+    background-color: rgb(165, 42, 95);
+    height:300px;
+}
+#foto4{
+    background-color: rgb(165, 116, 42);
+    height: 300px;
+}
+#foto5{
+    background-color: rgb(120, 159, 54);
+    height: 200px;
+    padding: 20px;
+}
+#foto6{
+    background-color: rgb(40, 74, 224);
+    height: 200px;
+    padding: 20px;
+}
+#foto7{
+    background-color: rgb(165, 85, 42);
+    height: 200px;
+    padding: 20px;
+}
+#foto8{
+    background-color: rgb(165, 42, 147);
+    height: 200px;
+    padding: 20px;
+}
+#foto9{
+    background-color: rgb(52, 165, 42);
+    height: 200px;
+    padding: 20px;
+}
+#foto10{
+    background-color: rgb(42, 165, 163);
+    height: 200px;
+    padding: 20px;
+}
+#foto11{
+    background-color: rgb(165, 42, 42);
+    height: 200px;
+    padding: 20px;
+}
+#foto12{
+    background-color: rgb(42, 50, 165);
+    height: 200px;
+    padding: 20px;
+}
+
+
+#info{
+    background-color: rgb(114, 42, 165);
+    height: 300px;
+}
+#mapa{
+    background-color: rgb(42, 165, 54);
+    height: 300px;
+}
+
+#piedepagina{
+    background-color: blue;
+    height: 30px;
+}
